@@ -1,0 +1,397 @@
+/*Teams Section*/
+.teams-card{
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 3px 3px 3px rgb(82, 80, 80);
+    border: 1px solid rgb(161, 159, 159);
+    text-align: center;
+    width: 150px;
+    margin: 1.5rem 0.8rem;
+
+}
+.teams-image{
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+    width: 149px;
+}
+.teams-card p{
+    font-size: 1rem;
+    margin: auto;
+}
+.teams-heading span{
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+}
+.teams-heading{
+    font-size: 1rem;
+    color: rgb(70, 68, 68);
+}
+.teams-main-card{
+    display: flex;
+    flex-direction: column;
+}
+.teams-paragraph{
+    color: rgb(101, 104, 104);
+    text-align: center;
+}
+.teams-container{
+    display: flex;
+    flex-direction: column;
+    width: 35vw;
+}
+.main-teams-container{
+    margin: 20px;
+    padding: 80px;
+    border: 1px solid rgb(219, 214, 214);
+    border-radius: 12px;
+    display: flex;
+    justify-content: space-between;
+}
+.teams-figure{
+    background-color: rgb(243, 237, 237);
+    border-radius: 1rem;
+    position: relative;
+    top: -20px;
+    padding: 5px;
+    text-align: center;
+}
+.teams-image2{
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+    width: 200px;
+}
+.teams-container2{
+    width: 200px;
+    align-self: center;
+    justify-content: center;
+    box-shadow: 3px 3px 3px rgb(82, 80, 80);
+    border: 1px solid rgb(161, 159, 159);
+    border-radius: 1rem;
+    margin: 0 4rem;
+}
+
+
+
+
+
+
+
+
+/*Recognition container */
+.recognition-container{
+    margin: 30px;
+}
+.recognition-container span{
+    color: blue;
+    text-align: center;
+    margin: 1.5rem 0;
+}
+.recognition-container h1{
+    text-align: center;
+    margin: 1.5rem 0;
+}
+.reconisation-image{
+    height: 55vh;
+    width: 45vw;
+    margin-right: 25px;
+}
+.recognition-card{
+    background-color: rgb(49, 42, 42);
+    color: white;
+    border-radius: 1rem;
+    display: flex;
+    flex-direction: column;
+    padding: 15px;
+    text-align: center;
+    width: 55vw;
+    margin: 2rem;
+    margin-left: 260px;
+}
+.recognition-card p{
+    font-size: 1.2rem;
+}
+.recognition-card h1{
+    color: #f38f55;
+    margin: 3px 3px;
+}
+
+
+/*Portifiolo Section*/
+.award-image{
+    height: 150px;
+    width: 200px;
+    margin-left: 7px;
+}
+.image-award-head{
+    width: 240px;
+    align-self: center;
+}
+.paragraph1{
+    background-color: rgba(147, 206, 245, 0.514);
+    color: rgb(106, 46, 202);
+    border-radius: 4px;
+    width: 220px;
+    text-align: center;
+}
+.fire-image{
+    height: 30px;
+    width: 30px;
+}
+.paragraph2{
+    background-color: rgba(99, 178, 231, 0.514);
+    color: rgb(93, 89, 99);
+    border-radius: 4px;
+    width: 170px;
+    text-align: center;
+}
+.paragraph3{
+    background-color: rgba(235, 205, 178, 0.514);
+    color: rgb(158, 144, 107);
+    border-radius: 4px;
+    width: 230px;
+    text-align: center;
+}
+.profile-button{
+    background-color: rgb(97, 97, 240);
+    color: white;
+    border-radius: 10px;
+    padding: 3px;
+    border: none;
+    width: 300px;
+    margin-left: 3px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+.profile-container{
+    background-color: aliceblue;
+    border: 1px solid rgb(207, 218, 224);
+    padding: 20px;
+    margin: 10px;
+    border-radius: 15px;
+    width: 28vw;
+}
+.profile-image{
+    height: 250px;
+    width: 200px;
+    margin: 1rem 0.5rem;
+}
+.image-container1{
+    display: flex;
+}
+.image2{
+    align-self: center;
+    width: 150px;
+}
+.profile-container h1{
+    font-size: 1.5rem;
+}
+.profile-sub-container1{
+    display: flex;
+    flex-direction: column;
+    margin-top: 14px;
+}
+.profile-sub-container1 p{
+    font-size: 14px;
+    margin-bottom: 3px;
+    
+}
+.profile-sub-container1 h3{
+    font-size: 1rem;
+}
+.profile-sub-container2{
+    display: flex;
+    flex-direction: column;
+    margin-top: 14px;
+}
+.profile-sub-container2 p{
+    margin-bottom: 3px;
+    margin-left: 3px;
+}
+.profile-button i{
+    margin-right: 7px;
+}
+.mainProfile-container{
+    display: flex;
+    flex-direction: row;
+    padding: 30px;
+    
+}
+.mainProfile-container-subcard h1{
+    font-size: 3rem; /*rem = root em */
+    width: 35vw;
+
+}
+.mainProfile-paragraph-container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 1.5rem;
+}
+.mainProfile-paragraph-container p {
+    text-align: center;
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+/* aluminisection */
+.alumini-image{
+    width: 95vw;
+    height: 10vh;
+}
+.aluminisection1-card1{
+    background-color: white;
+    align-content: center;
+    height: 30vh;
+    text-align: center;
+    margin: 20px;
+
+}
+.aluminisection1-card1 h1,.aluminisection1-card2 h1{
+    font-size: 1rem;
+    margin-bottom: 20px;
+}
+.aluminisection1-card2{
+    background-color: rgb(243, 254, 255);
+    align-content: center;
+    height: 30vh;
+    text-align: center;
+    margin: 20px;
+    border-radius: 20px;
+
+}
+#aluminiSection1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+/*Companinnes Section*/
+#companiesSection{
+    text-align: center
+}
+.companines-Image{
+    width: 95vw;
+    height: 95vh;
+}
+.companiesSection-card span{
+    color: blue;
+    font-size: 2.5rem;
+}
+.companiesSection-card h1{
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+}
+.companiesSection-card p{
+    color: rgb(179, 179, 167);
+    margin-top: 20px;
+}
+
+.companies-button{
+    background-color: transparent;
+    border-radius: 10px;
+    border: 1px solid blue;
+    color: blue;
+    margin-left: 30px;
+    padding: 3px;
+}
+.companies-button:hover{
+    background-color: blue;
+    color: white;
+}
+/* Awards Section*/
+#awardsSection{
+    background-color: rgb(56, 52, 52);
+    padding: 20px;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+.awardsSection-card{
+    display: flex;
+    flex-direction: row;
+}
+.awardsSection-image1{
+    background-color: transparent;
+    height: 160px;
+    width: 60px;
+    margin: 15px;
+}
+.awardsSection-subCard p{
+    color: rgb(168, 115, 17);
+    margin-bottom: 15px;
+    margin-left: 6px;
+    font-size: 14px;
+    margin-top: 25px;
+}
+.awardsSection-subCard h1{
+    font-size: 1.5rem;
+    margin-left: 6px;
+}
+.awardsSection-image2{
+    background-color: transparent;
+    height: 160px;
+    margin: 0 20px;
+}
+.award-heading{
+    font-size: 3rem;
+    text-align: center;
+    margin: 2rem 20px;
+}
+.awardssection-image3{
+    height: 55vh;
+    width: 40vw;
+    margin: 1.5rem 0;
+}
+.awardsSection-image4{
+    height: 55vh;
+    width: 40vw;
+    margin: 1rem 3rem;
+}
+.awardsSection-subcard p{
+    margin-left: 1.5rem;
+}
+
+/*New Section*/
+.new-bg{
+    background-color: blue;
+    color: white;
+    text-align: center;
+    padding: 3px;
+}
+.new-bg p a{
+    color: white;
+}
+
+/*Header CSS code */
+.image{
+    height: 40px;
+    width: 150px;
+    
+    padding: 7px;
+}
+.nav-container{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    margin: 2rem 1rem;
+}
+.nav-link-container{
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    
+}
+.nav-link-container li{
+    margin-right: 1rem; /* 1rem = 16px */
+    cursor: pointer;
+}
+.nav-link-container :hover{
+    color: blue;
+    text-decoration: none;
+}
+.nav-link-container li i {
+    margin-left: 15px;
+    cursor: pointer;
+    font-size: 1rem;
+    font-weight: 700;
+}
