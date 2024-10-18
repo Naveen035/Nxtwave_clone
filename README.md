@@ -35,8 +35,6 @@ To explore Nxtwave, visit our website at [Nxtwave](https://nxtwave1002.ccbp.tech
 ## 🛠️ **Technologies Used**
 - **Frontend**: HTML, CSS, JavaScript
 - **Frameworks**: Bootstrap for responsive design
-- **Backend**: (Specify if applicable)
-- **Database**: (Specify if applicable)
 
 ## 🤝 **Contributing**
 We welcome contributions to enhance the Nxtwave platform! If you have suggestions or would like to report issues, please submit a pull request or open an issue on our GitHub repository.
